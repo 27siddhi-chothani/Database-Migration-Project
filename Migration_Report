@@ -1,0 +1,27 @@
+Objective
+
+Migrate data from MySQL to PostgreSQL while maintaining data integrity.
+
+Source Database
+
+MySQL
+
+Target Database
+
+PostgreSQL
+
+Tables Migrated
+1. Customers
+2. Orders
+
+Steps Performed
+1. Created MySQL database.
+2. Inserted sample data.
+3. Installed PostgreSQL.
+4. Created PostgreSQL schema.
+5. Migrated records.
+6. Verified migrated data.
+
+Result
+
+Data was successfully migrated without loss
